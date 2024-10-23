@@ -1,0 +1,4 @@
+sounddevice==0.5.1
+numpy==2.1.2
+websockets==13.1
+pyqt5==5.15.11
