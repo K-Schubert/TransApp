@@ -29,10 +29,11 @@ git clone git@github.com:K-Schubert/TransApp.git
 cd TransApp
 ```
 
-- Set deepl API key:
+- Set env variables:
 ```bash
 nano .env
-# Set DEEPL_API_KEY=<DEEPL_API_KEY>
+DEEPL_API_KEY=<DEEPL_API_KEY>
+TRANSCRIPTION_ENDPOINT=<TRANSCRIPTION_ENDPOINT_URL>
 ```
 
 - Create venv:
